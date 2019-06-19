@@ -1,0 +1,9 @@
+"Codename;Vendor;Class;Affliation"
+"5536360267491555;Incom;Starfighter;Alliance"
+"5536360267491556;Incom;Starfighter;Alliance"
+"5536360267491559;SlynKorpil;Starfighter;Alliance"
+"5536360267491551;Incom;Starfighter;Alliance"
+"5536360267491550;Incom;Starfighter;Resistance"
+"55363602674915525536360267491555;Sienar;Light Bomber;Empire"
+
+
