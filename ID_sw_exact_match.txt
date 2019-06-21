@@ -1,0 +1,9 @@
+"Codename;Vendor;Class;Affliation"
+"RZ1-A-wing;Incom;Starfighter;Alliance"
+"BTB-Y-wing;Incom;Starfighter;Alliance"
+"SF1-B-wing;SlynKorpil;Starfighter;Alliance"
+"T65-X-wing;Incom;Starfighter;Alliance"
+"T70-X-wing;Incom;Starfighter;Resistance"
+"TIE-S-bomb;Sienar;Light Bomber;Empire"
+
+
